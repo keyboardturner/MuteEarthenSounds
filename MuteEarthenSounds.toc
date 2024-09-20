@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: Mute Earthen Sounds
+## Author: Keyboardturner
+## Version: 0.0.1
+## Notes: Mute noises made by the Earthen (like the innkeeper in Dornogal), consisting of sighs and grunts
+## IconTexture: Interface/ICONS/Ability_Earthen_WideEyedWonder
+
+core.lua
