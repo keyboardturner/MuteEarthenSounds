@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 110005
 ## Title: Mute Earthen Sounds
 ## Author: Keyboardturner
 ## Version: 0.0.1
