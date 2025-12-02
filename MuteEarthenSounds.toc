@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: Mute Earthen Sounds
 ## Author: Keyboardturner
 ## Version: @project-version@
